@@ -1,4 +1,5 @@
-import BasePage from "./basePage";
+import BasePage from "./basePage";  
+
 
 export default class LoginPage extends BasePage{
     constructor(){

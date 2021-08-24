@@ -1,3 +1,5 @@
 {
-    "testFiles": "**/*.feature"
+    "testFiles": "**/*.feature",
+    "defaultCommandTimeout": 6000,
+    "projectId": "vpdnfi"
 }
